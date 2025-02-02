@@ -5,27 +5,6 @@ This project focuses on analyzing and visualizing substations within a specified
 
 ## Methods
 
-### 1. `00_filter_substations.py`
-- **Description**: Filters substations within a specified polygon around Philadelphia.
-- **Parameters**: 
-  - `latitude`: Latitude of the center point.
-  - `longitude`: Longitude of the center point.
-- **Returns**: Substations within the specified polygon.
-
-### 2. `get_buildings.py`
-- **Description**: Retrieves building data within a specified polygon around Philadelphia.
-- **Parameters**: 
-  - `latitude`: Latitude of the center point.
-  - `longitude`: Longitude of the center point.
-- **Returns**: Building data within the specified polygon.
-
-### 3. `03_build_grid.py`
-- **Description**: Builds a grid within a specified polygon around Philadelphia.
-- **Parameters**: 
-  - `latitude`: Latitude of the center point.
-  - `longitude`: Longitude of the center point.
-- **Returns**: Grid data within the specified polygon.
-
 ### 4. `03_save_opendss.py`
 - **Description**: Builds a grid and saves it in OpenDSS format.
 - **Parameters**: 
