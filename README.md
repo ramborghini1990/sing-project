@@ -5,13 +5,6 @@ This project focuses on analyzing and visualizing substations within a specified
 
 ## Methods
 
-### 4. `03_save_opendss.py`
-- **Description**: Builds a grid and saves it in OpenDSS format.
-- **Parameters**: 
-  - `latitude`: Latitude of the center point.
-  - `longitude`: Longitude of the center point.
-- **Returns**: Grid data in OpenDSS format.
-
 ### 5. `04_visualize_dss_result.py`
 - **Description**: Visualizes the results of the DSS analysis on a map.
 - **Parameters**: 
