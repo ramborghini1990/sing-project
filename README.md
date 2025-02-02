@@ -79,10 +79,3 @@ This project focuses on analyzing and visualizing substations within a specified
   - `gpkg_file`: Path to the GeoPackage file.
 - **Returns**: List of available layers.
 
-### 16. `import osmnx as ox.py`
-- **Description**: Retrieves transformer data within a specified polygon around Philadelphia using Overpass API.
-- **Parameters**: 
-  - `latitude`: Latitude of the center point.
-  - `longitude`: Longitude of the center point.
-- **Returns**: Transformer data within the specified polygon.
-
